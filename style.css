@@ -7,11 +7,12 @@
 }
 #headshot{
     width:160px;
+    padding:10px;
    
 }
 .mid{
-    display:flex;
-    justify-content:space-around;
+    display: flex;
+    justify-content:center;
     background-color:#8D5AF3;
     color:black;
     align-items:center;
@@ -26,6 +27,7 @@
 }
 
 .footer{
-    display: flex;
+    display:flex;
     justify-content:space-around;
 }
+#picture{padding:40px;}
