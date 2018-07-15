@@ -1,0 +1,31 @@
+
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+#headshot{
+    width:160px;
+   
+}
+.mid{
+    display:flex;
+    justify-content:space-around;
+    background-color:#8D5AF3;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Lobster Two', cursive;
+
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+.footer{
+    display: flex;
+    justify-content:space-around;
+}
