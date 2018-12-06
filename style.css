@@ -4,11 +4,11 @@
     background-color:black;
     color:white;
     font-size:20px;
+    margin:10px;
 }
 #headshot{
     width:160px;
     padding:10px;
-   
 }
 .mid{
     display: flex;
@@ -22,12 +22,41 @@
     font-family: 'Lobster Two', cursive;
 
 }
-.aboutme{
+.line{
     border:1px solid black;   
 }
 
 .footer{
     display:flex;
     justify-content:space-around;
+     flex-direction:row;
+     margin-top:2.5%;
+    margin-bottom:2%;
 }
-#picture{padding:40px;}
+#picture{
+    padding:40px;
+    
+}
+body{
+    background-color:#FADBD8;
+}
+#port{
+    background-color:#EBDEF0;
+}
+#about{
+    background-color:#ABEBC6;
+}
+#cont{
+    background-color:#F2F3F4;
+}
+.pages{
+    justify-content:space-around;
+   padding:10px;
+}
+#index{
+    color:white;
+}
+
+.content{
+    margin:10px;
+}
